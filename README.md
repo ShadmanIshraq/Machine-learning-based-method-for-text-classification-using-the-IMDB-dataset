@@ -1,1 +1,2 @@
 # Machine-learning-based-method-for-text-classification-using-the-IMDB-dataset
+A machine learning model was trained using the training set, and its performance was then assessed using the validation set. Later on, hyperparameter optimisation was done to improve the model's performance. Additionally, an in-depth evaluation of the created model on the test set, offering perceptions into its effectiveness and versatility in managing text categorization tasks.
