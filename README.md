@@ -1,1 +1,1 @@
-# Introduction-to-Human-Language-Technology-Project
+# Machine-learning-based-method-for-text-classification-using-the-IMDB-dataset
